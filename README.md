@@ -44,19 +44,25 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ ![WhatsApp Image 2026-03-19 at 9 53 02 PM](https://github.com/user-attachments/assets/bdf70825-ea7d-49e0-b5c1-f0ca54e59215)
+
 
 
 b.  KCL:
- 
+ ![WhatsApp Image 2026-03-19 at 9 53 03 PM](https://github.com/user-attachments/assets/4346944d-02e0-42b0-ae17-6d5b6a94e8d0)
+
 
 Calculation:
 
 a.   KVL:
- 
+ ![WhatsApp Image 2026-03-19 at 9 53 00 PM](https://github.com/user-attachments/assets/9b49d3e9-4b05-4e22-a914-302749ba3879)
+![WhatsApp Image 2026-03-19 at 9 53 01 PM](https://github.com/user-attachments/assets/c1e04630-8ba6-4680-a34b-09dd8d73aba2)
+
 
 
 b.  KCL:
+![WhatsApp Image 2026-03-19 at 9 53 01 PM (1)](https://github.com/user-attachments/assets/daee6079-9959-405c-8a8d-fc28cc945f77)
+![WhatsApp Image 2026-03-19 at 9 53 02 PM (1)](https://github.com/user-attachments/assets/bd38470c-9260-427f-92be-2da2b71ead2c)
 
 
 
@@ -64,10 +70,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ ![WhatsApp Image 2026-03-19 at 9 53 02 PM (2)](https://github.com/user-attachments/assets/bc0e019a-f25c-461b-b6c3-26f4ffdfc37d)
+
 
 
 b.  KCL:
+![WhatsApp Image 2026-03-19 at 9 53 03 PM (1)](https://github.com/user-attachments/assets/e0787f57-ede6-4a12-a486-d757221fea53)
 
 
 
